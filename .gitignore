@@ -1,0 +1,11 @@
+*~
+.project
+.buildpath
+.settings
+!/.gitignore
+
+
+/vendor/
+/.DS_Store
+
+.vagrant/
